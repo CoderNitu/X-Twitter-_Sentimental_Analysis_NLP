@@ -5,3 +5,11 @@ Build machine learning models that can classify whether the tweets are positive 
 ## WORKFLOW DIAGRAM (METHODOLOGY)
 
 ![Screenshot (188)](https://github.com/CoderNitu/X-Twitter-_Sentimental_Analysis_NLP/assets/87817227/cd196427-f0f8-416b-ac6c-bb406c845347)
+
+## DATASET USED
+
+The dataset used contains 32K tweets extracted using the Twitter API. The tweets have been annotated (0 = positive i.e., the tweets that are not racist/sexist, and 1= negative that is racist/sexist) and they can be used to detect the sentiment of the users.
+
+## EDA (EXPLORATORY DATA ANALYSIS)
+
+
