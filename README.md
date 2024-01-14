@@ -14,4 +14,6 @@ The dataset used contains 32K tweets extracted using the Twitter API. The tweets
 
 ![Screenshot (189)](https://github.com/CoderNitu/X-Twitter-_Sentimental_Analysis_NLP/assets/87817227/879dced6-d40b-4fc9-a9f2-1d550d75eaa4)
 
+![Screenshot (191)](https://github.com/CoderNitu/X-Twitter-_Sentimental_Analysis_NLP/assets/87817227/fdee9a90-7ea0-4187-aa6e-a983fca96357)
+
 ![Screenshot (190)](https://github.com/CoderNitu/X-Twitter-_Sentimental_Analysis_NLP/assets/87817227/e3fabb29-4cf0-415f-a50f-7eacdcd654a3)
