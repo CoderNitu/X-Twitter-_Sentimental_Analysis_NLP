@@ -12,4 +12,6 @@ The dataset used contains 32K tweets extracted using the Twitter API. The tweets
 
 ## EDA (EXPLORATORY DATA ANALYSIS)
 
+![Screenshot (189)](https://github.com/CoderNitu/X-Twitter-_Sentimental_Analysis_NLP/assets/87817227/879dced6-d40b-4fc9-a9f2-1d550d75eaa4)
+
 
